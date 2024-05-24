@@ -770,7 +770,8 @@ function custom_login_logo() {
     echo '<style type="text/css">
         #login h1 a, .login h1 a {
             background-image: url('.get_stylesheet_directory_uri().'/assets/images/favicon.png);
-           
+
+            
             width:240px;
             
             padding-bottom: 0px;
