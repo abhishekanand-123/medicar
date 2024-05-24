@@ -1,0 +1,309 @@
+
+@media only screen and (max-width: 1399px) {
+.sidenavs a {
+    padding: 8px 8px;
+    font-size: 14px;
+}
+li.lst-btn a{
+  font-size: 14px;
+}
+
+}
+@media only screen and (max-width: 1199px) {
+.sidenavs a {
+    font-size: 12px;
+}
+.follow-us a {
+
+    margin-left: 8px;
+}
+.banner-heading h1 {
+    font-size: 48px;
+    line-height: 56px;
+}
+.inner-card-main {
+    padding: 60px 25px 25px 25px;
+}
+.medi-head h2 {
+    font-size: 30px;
+}
+.manage-cont h2,.talk-head h2 {
+    font-size: 40px;
+}
+.price-card .card-body p {
+    font-size: 16px;
+}
+.price-card h3 {
+    font-size: 26px;
+}
+.left-cont-ftr h3 {
+    font-size: 24px;
+}
+.feature-inn h4 {
+    font-size: 18px;
+    line-height: 18px;
+}
+.feedbyclient p {
+    font-size: 18px;
+}
+p.note {
+    font-size: 14px;
+}
+.vehicle_details  .exciting_right {
+    padding: 60px 15px 60px 15px;
+}
+.exciting_right {
+    padding: 60px 15px 60px 15px;
+}
+.vehicle_details .exciting_left img {
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 1023px) {
+body {
+    padding-top: 50px;
+}
+
+.follow-us a {
+    margin-left: 2px;
+    margin-bottom: 5px;
+}
+.sidenavs .closebtn {
+    display: block;
+    line-height: 25px;
+    right: 7px;
+    margin: 0;
+}
+  ul.menu_navigation {
+    display: inline-block;
+    width: 100%;
+  }
+ul.menu_navigation li, ul.top-menu li {
+    padding: 0;
+    border-bottom: 1px solid #ddddddc7;
+}
+.sidenavs a {
+    margin: 0;
+}
+ul.menu-btns li {
+  padding: 10px 8px;
+  width: 100%;
+}
+li.become-member .btn{
+  margin-right: 0;
+}
+span.toggle_menu {
+    display: inline-block;
+    color: #fff;
+    font-size: 30px;
+    position: relative;
+    right: 0;
+    top: -9px;
+    float: left;
+    margin-left: 15px;
+}
+.sidenavs {
+    width: 0;
+    position: fixed;
+    background: #000000;
+    top: 0;
+    right: 0;
+    display: inline-block;
+    overflow-x: hidden;
+    /* background: linear-gradient(13deg, rgb(126 195 65) 0%, rgb(191 215 47) 50%, rgb(0 174 239) 100%); */
+}
+ul.menu_navigation {
+    padding-top: 50px;
+}
+  .sidenavs a , ul.top-menu a{
+    font-size: 16px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space: nowrap;
+    color: #fff;
+  }
+  .sidenavs .menu-btns a{
+    display: block;
+    text-align: center;
+  }
+  .top-brs.for-mob, .menu-btns {
+    display:block;
+  }
+  .top-brs.for-desk{
+    display:none;
+  }
+.top-brs .top-menu {
+    display:block;
+    border-bottom: 0;
+    padding: 40px 0 0;
+}
+li.lst-btn {
+    padding: 10px 0;
+    text-align: right;
+}
+li.lst-btn a {
+    text-align: center;
+    justify-content: center;
+}
+.menus {
+    width: 62px;
+    flex-basis: auto;
+    max-width: 100%;
+    position: absolute;
+    right: 0;
+    top: 14px;
+}
+.login-div {
+    width: 141px;
+    flex-basis: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: 50px;
+}
+li.lst-btn a {
+    padding: 5px 26px;
+}
+.individual-custm .col-md-6 {
+    width: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+}
+.custom-content {
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: auto;
+}
+.custom-img {
+    height: 100%;
+    max-width: 500px;
+}
+.custom-content {
+    margin-top: 35px;
+}
+.individual-custm.service-provider .custom-content {
+    margin-left: 0;
+    padding-top: 0;
+    padding-bottom: 80px;
+}
+.srv-cont p,
+.inner-card-main p,
+.manage-cont p,.feature-inn p,
+.custom-content ul li{
+    text-align: left;
+}
+.banner-heading h1 {
+    font-size: 38px;
+    line-height: 48px;
+}
+}
+@media only screen and (max-width: 991px) {
+.banner-sc {
+    min-height: 450px;
+}
+.exciting_left, .exciting_left img {
+    height: 100%;
+    object-fit: cover;
+}
+ .ftr-abt {
+    max-width: 100%;
+}
+.footer-about {
+    margin-bottom: 40px;
+}
+.exciting_right  h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.exciting.vehicle_details.manage_vehicle .exciting_left img {
+    object-fit: contain;
+}
+.payment_heading h3 {
+    font-size: 18px;
+}
+.payment_heading h2 {
+    font-size: 26px;
+}
+}
+@media only screen and (max-width: 767px) {
+	.price-card {
+    margin-bottom: 25px;
+}
+	.exciting.vehicle_details .row {
+    flex-direction: column-reverse;
+}
+.vehicle_details .exciting_right {
+    padding-bottom: 0;
+}
+	.custom-img {
+    max-width: 700px;
+}
+.slider-left {
+    margin-bottom: 40px;
+}
+.individual-custm.bussinuss-custom .row .col-md-6:last-child {
+    padding-right: 15px;
+}
+.individual-custm.service-provider .row .col-md-6:first-child {
+    padding-left: 15px;
+}
+.contact-sec .row .col-md-6:last-child {
+    padding-right: 15px;
+}
+.mobile-m {
+    max-width: 470px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .socials-footer {
+    margin-top: 40px;
+}
+.apps a {
+    margin-left: 0;
+    margin-right: auto;
+}
+.follow-us {
+    text-align: left;
+    margin-top: 32px;
+}
+.follow-us a {
+    margin-left: 0;
+    margin-bottom: 5px;
+    margin-right: 21px;
+}
+}
+@media only screen and (max-width: 575px) {
+.rqst-mm {
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: auto;
+    margin-bottom: 35px;
+}
+.footer {
+    padding: 50px 0;
+}
+.testomial-cont img {
+    left: 0;
+
+}
+.client-img {
+    border: 2px solid #E62329;
+    width: 100px;
+    height: 100px;
+}
+.left-cont-ftr h3 {
+    font-size: 20px;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.feature-inn h4 {
+    font-size: 15px;
+    line-height: 18px;
+}
+.manage-cont h2, .talk-head h2 {
+    font-size: 30px;
+}
+}
